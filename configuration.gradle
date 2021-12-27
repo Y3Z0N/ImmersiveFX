@@ -1,0 +1,37 @@
+//  Basics defined up here to make life easier
+//  Tweak the defs, not the others!
+def mcVersion    	= '1.16.5'
+def modVersion   	= '4.0.5.0'
+def modDesignator	= ''
+def forgeVersion 	= '36.2.0'
+def snapshot     	= '20201028-1.16.3'
+
+// General Mod version stuff
+project.group           	= 'org.orecruncher'
+project.archivesBaseName	= 'DynamicSurroundings'
+project.version         	= "${mcVersion}-${modVersion}${modDesignator}"
+
+project.ext.ssVersion     	= "4.0.0.80"
+project.ext.bopVersion      = "13.0.0.425"
+project.ext.jeiVersion    	= "7.6.0.62"
+project.ext.ctmVersion      = "1.1.2.6"
+project.ext.clothVersion    = "4.11.19"
+
+project.ext.modId        	= 'dsurround'
+project.ext.mcVersion    	= mcVersion
+project.ext.modVersion   	= modVersion
+project.ext.forgeVersion	= forgeVersion
+project.ext.modDesignator	= modDesignator
+project.ext.fingerprint  	= 'B4:98:14:B9:76:55:25:4F:E5:5F:4D:71:90:87:43:5B:F9:D5:3A:02:60:42:5E:DA:1F:15:9C:FF:BE:A9:7C:77'
+project.ext.updateurl    	= 'https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings2/master/version.json'
+
+// Build Stuff
+project.ext.snapshot = snapshot
+
+// Output to the log for posterity
+println "******************************************"
+println "JAR tag     : " + project.version
+println "Archive     : " + project.archivesBaseName
+println "Mod Version : " + project.ext.modVersion
+println "Forge       : " + forgeVersion + " (" + project.ext.snapshot + ")"
+println "******************************************"

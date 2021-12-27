@@ -1,0 +1,36 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings",
+	"1.16.4": {
+		"4.0.1.0": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.1.1": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.1.2": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.1.3": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.1.4": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.1.5": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.2.0": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.0": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.1": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.2": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.3": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.4": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.5": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.6": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.7": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.8": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.9": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.10": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.11": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.3.12": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.4.1": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md",
+		"4.0.4.2": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md"
+	},
+	"1.16.5": {
+		"4.0.5.0": "See https://github.com/OreCruncher/DynamicSurroundings2/blob/master/CHANGELOG.md#dynamicsurroundings-1165-4050"
+	},
+	"promos": {
+		"1.16.4-latest": "1.16.4-4.0.4.2",
+		"1.16.4-recommended": "1.16.4-4.0.4.2",
+		"1.16.5-latest": "1.16.5-4.0.5.0",
+		"1.16.5-recommended": "1.16.5-4.0.5.0"
+	}
+}
