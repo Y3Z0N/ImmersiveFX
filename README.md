@@ -1,20 +1,16 @@
-### Dynamic Surroundings
+### ImmersiveFX
 Forge mod that gives the player control over the sounds that play.
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings"><img src="http://cf.way2muchnoise.eu/versions/dynamic-surroundings.svg" alt="CurseForge Project"/></a>
-</br></br>
-<a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings"><img src="http://cf.way2muchnoise.eu/full_dynamic-surroundings_downloads.svg" alt="CurseForge Project"/></a>
-</br></br>
-
-The Dynamic Surroundings 1.16.4 combines 3 mods from 1.14.x+ into a single mod:
+The Dynamic Surroundings 1.16.5 fg combines 3 mods from 1.14.x+ into a single mod:
 * Dynamic Surroundings: Sound Control
 * Dynamic Surroundings: Environs
 * Dynamic Surroundings: Mob Effects
+*  ImmersiveFX: SpecialFX
 
 ### License
- Dynamic Surroundings
+ Dynamic Surroundings / EFX
  
- Copyright (C) 2020  OreCruncher
+ Copyright (C) 2021  OreCruncher, Y3Z0N
  
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
