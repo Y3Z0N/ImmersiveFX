@@ -1,3 +1,4 @@
+/*
 package dynamiclabs.immersivefx.specialfx;
 
 import net.minecraftforge.fml.common.Mod;
@@ -86,3 +87,4 @@ public class WakeUpSound {
 		}.start(world, (int) 20);
 	}
 }
+*/
