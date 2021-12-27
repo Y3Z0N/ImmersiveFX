@@ -1,0 +1,326 @@
+{
+  "heartbeat": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "immersivefx:heartbeat",
+        "stream": false
+      }
+    ]
+  },
+  "splatter": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "immersivefx:splatter1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:splatter2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:splatter3",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:splatter4",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:splatter5",
+        "stream": false
+      }
+    ]
+  },
+  "crafting": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "immersivefx:craft1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:craft2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:craft3",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:craft4",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:craft5",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:craft6",
+        "stream": false
+      }
+    ]
+  },
+  "smelting": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "immersivefx:smelt1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:smelt2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:smelt3",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:smelt4",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:smelt5",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:smelt6",
+        "stream": false
+      }
+    ]
+  },
+  "throwitem": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "immersivefx:throw1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:throw2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:throw3",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:throw4",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:throw5",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:throw6",
+        "stream": false
+      }
+    ]
+  },
+  "spawnmob": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "immersivefx:spawnmob1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:spawnmob2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:spawnmob3",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:spawnmob4",
+        "stream": false
+      }
+    ]
+  },
+  "hunger": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "immersivefx:hunger1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:hunger2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:hunger3",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:hunger4",
+        "stream": false
+      }
+    ]
+  },
+  "bed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "immersivefx:bed1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:bed2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:bed3",
+        "stream": false
+      }
+    ]
+  },
+  "wakeup": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "immersivefx:wakeup1",
+        "stream": true
+      },
+      {
+        "name": "immersivefx:wakeup2",
+        "stream": true
+      },
+      {
+        "name": "immersivefx:wakeup3",
+        "stream": true
+      },
+      {
+        "name": "immersivefx:wakeup4",
+        "stream": true
+      },
+      {
+        "name": "immersivefx:wakeup5",
+        "stream": true
+      }
+    ]
+  },
+  "click_anvil": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "immersivefx:click_anvil1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_anvil2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_anvil3",
+        "stream": false
+      }
+    ]
+  },
+  "click_crafting_table": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "immersivefx:click_craft1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_craft2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_craft3",
+        "stream": false
+      }
+    ]
+  },
+  "click_grind_stone": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "immersivefx:click_grind1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_grind2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_grind3",
+        "stream": false
+      }
+    ]
+  },
+  "click_oven": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "immersivefx:click_oven1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_oven2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_oven3",
+        "stream": false
+      }
+    ]
+  },
+  "click_upgrade": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "immersivefx:click_upgrade1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_upgrade2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_upgrade3",
+        "stream": false
+      }
+    ]
+  },
+  "click_loom": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "immersivefx:click_loom1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_loom2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:click_loom3",
+        "stream": false
+      }
+    ]
+  },
+  "chat": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "immersivefx:chat1",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:chat2",
+        "stream": false
+      },
+      {
+        "name": "immersivefx:chat3",
+        "stream": false
+      }
+    ]
+  }
+}

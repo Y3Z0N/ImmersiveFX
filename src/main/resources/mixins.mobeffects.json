@@ -1,0 +1,14 @@
+{
+  "package": "dynamiclabs.immersivefx.mobeffects.mixins",
+  "required": true,
+  "refmap": "mixins.dsurround.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "MixinBlockState",
+    "MixinEntityArrow"
+  ]
+}

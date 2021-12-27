@@ -1,0 +1,83 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+issueTrackerURL="https://github.com/OreCruncher/DynamicSurroundings/issues"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings"
+logoFile="logo.png"
+license = "GPL-3.0"
+showAsResourcePack=false
+
+[[mods]]
+	modId="dsurround"
+	version="${version}"
+	displayName="§3ImmersiveFX"
+	updateJSONURL="https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings2/master/version.json"
+	credits="\n\n§6Wirsbo§r for §2BetterRain§r\n§6SonicEther§r for §2Sound Physics§r\n§6MrRube§r for §2Aurora Rubealis§r\n§6Hurricaaane§r for §2Presence Footsteps§r and §2MAtmos§r\n§eSound and Texture Attributions§r at https://tinyurl.com/mggnl76\n\n"
+	authors="§6OreCruncher, Y3Z0N, Amo, Elise, Phaze§r\n"
+	description="\nAdds a variety of §6sound§r and §6visual§r effects to improve your Minecraft experience"
+
+	[[dependencies.dsurround]]
+		modId="forge"
+		mandatory=true
+		versionRange="[36.2.0,)"
+		ordering="NONE"
+		side="CLIENT"
+
+	[[dependencies.dsurround]]
+		modId="minecraft"
+		mandatory=true
+		versionRange="[1.16.5,)"
+		ordering="NONE"
+		side="CLIENT"
+
+[[mods]]
+modId="immersivefx"
+version="1.0.0"
+displayName="ImmersiveFX: SpecialFX"
+credits="https://www.curseforge.com/members/y4z0n"
+displayURL="https://www.curseforge.com/members/y4z0n"
+authors="Y3Z0N"
+
+[[mods]]
+	modId="sndctrl"
+	version="${version}"
+	displayName="§3ImmersiveFX: §eSound Control"
+	credits="\n\n§6All the Players§r that installed and enjoyed §2ImmersiveFX§r\n§6SonicEther§r for making §2SoundPhysics§r GPL3\n"
+	authors="§6OreCruncher, Y3Z0N, Amo, Elise, Phaze§r\n"
+	description="\nEnhances and gives the player §6control§r over their §2Minecraft§r §6sound experience§r."
+
+	[[dependencies.sndctrl]]
+		modId="dsurround"
+		mandatory=false
+		versionRange="[1.16.5,)"
+		ordering="AFTER"
+		side="CLIENT"
+	
+[[mods]]
+	modId="environs"
+	version="${version}"
+	displayName="§3ImmersiveFX: §eEnvirons"
+	credits="\n\n§6All the Players§r that installed and enjoyed §2ImmersiveFX§r\n"
+	authors="§6OreCruncher, Y3Z0N, Amo, Elise, Phaze§r\n"
+	description="\nAdds §6sound§r and §6visual§r effects to §6biomes§r"
+	
+	[[dependencies.environs]]
+		modId="sndctrl"
+		mandatory=false
+		versionRange="[1.16.5,)"
+		ordering="AFTER"
+		side="CLIENT"
+
+[[mods]]
+	modId="mobeffects"
+	version="${version}"
+	displayName="§3ImmersiveFXs: §eMob Effects"
+	credits="\n\n§6All the Players§r that installed and enjoyed §2ImmersiveFX§r\n"
+	authors="§6OreCruncher, Y3Z0N, Amo, Elise, Phazer§r\n"
+	description="\nGiving §6mobs§r and §6players§r special §6sound§r and §6visual§r effects."
+	
+	[[dependencies.mobeffects]]
+		modId="sndctrl"
+		mandatory=false
+		versionRange="[1.16.5,)"
+		ordering="AFTER"
+		side="CLIENT"
