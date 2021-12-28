@@ -49,6 +49,17 @@ Other cool stuff:
 - You can replace any sound in the mod using datapacks!
 - Stereo Ambiences instead of Mono files like in Dynamic Surroundings!
 
+Armor Sound not working on Mod X?
+
+A: if you want to have armor sounds on your armor then you'll probably have to add one of these vanilla sounds to your armor:
+item.armor.equip_netherite
+item.armor.equip_gold
+item.armor.equip_iron
+item.armor.equip_chain
+item.armor.equip_diamond
+
+If you use custom sounds then IFX will not make any sound when walking with one of these armors.
+
 ### License
  Dynamic Surroundings / EFX
  
