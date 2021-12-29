@@ -7,9 +7,9 @@ The ImmersiveFX 1.16.5 fg combines 3 mods from 1.14.x+ into a single mod:
 * Dynamic Surroundings: Mob Effects
 *  ImmersiveFX: SpecialFX
 
-Difference to DS and EFX
+Difference to DS and IFX
 
-New added in EmmersiveFX: 
+New in ImmersiveFX: 
 - Sound when a Monster Spawns  
 - Particles when a Monster Spawns  
 - Sound when the player Craft something  
@@ -46,8 +46,19 @@ Changes to Vanilla Minecraft Sounds:
 - Bow Shoot/Pull Sounds more realistic 
 
 Other cool stuff:
-- You can replace any sound of the mod using datapacks!
+- You can replace any sound in the mod using datapacks!
 - Stereo Ambiences instead of Mono files like in Dynamic Surroundings!
+
+Armor Sound not working on Mod X?
+
+A: if you want to have armor sounds on your armor then you'll probably have to add one of these vanilla sounds to your armor:
+item.armor.equip_netherite
+item.armor.equip_gold
+item.armor.equip_iron
+item.armor.equip_chain
+item.armor.equip_diamond
+
+If you use custom sounds then IFX will not make any sound when walking with one of these armors.
 
 ### License
  Dynamic Surroundings / EFX
