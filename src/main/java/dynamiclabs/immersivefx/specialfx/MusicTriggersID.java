@@ -20,11 +20,11 @@ public class MusicTriggersID {
 			Map<String, Object> dependencies = new HashMap<>();
 			dependencies.put("world", world);
 			dependencies.put("event", event);
-			executeProcedure(dependencies);
+			CheckForMusicTriggers(dependencies);
 		}
 	}
 
-	public static void executeProcedure(Map<String, Object> dependencies) {
+	public static void CheckForMusicTriggers(Map<String, Object> dependencies) {
 		if (dependencies.get("world") == null) {
 			if (!dependencies.containsKey("world"))
 				Immersivefx.LOGGER.warn("ImmersiveFX: Failed to load checks for MusicTriggers.");
