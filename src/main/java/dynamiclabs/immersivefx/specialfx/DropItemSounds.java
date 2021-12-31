@@ -49,11 +49,11 @@ public class DropItemSounds {
 		if (world instanceof World && !world.isRemote()) {
 			((World) world).playSound(null, new BlockPos((int) (entity.getPosX()), (int) (entity.getPosY()), (int) (entity.getPosZ())),
 					(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("immersivefx:throwitem")),
-					SoundCategory.BLOCKS, (float) 0.65, (float) 1);
+					SoundCategory.BLOCKS, (float) 1.00, (float) 1);
 		} else {
 			((World) world).playSound((entity.getPosX()), (entity.getPosY()), (entity.getPosZ()),
 					(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("immersivefx:throwitem")),
-					SoundCategory.BLOCKS, (float) 0.65, (float) 1, false);
+					SoundCategory.BLOCKS, (float) 1.00, (float) 1, false);
 		}
 	}
 }
