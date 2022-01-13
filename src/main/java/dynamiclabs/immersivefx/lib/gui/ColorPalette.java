@@ -67,6 +67,11 @@ public final class ColorPalette {
     public static final Color SLATEGRAY = new Color(112, 128, 144);
     public static final Color DARKSLATEGRAY = new Color(47, 79, 79);
 
+
+    public static final Color AURORA_CYAN = new Color(0, 255, 240);
+    public static final Color AURORA_GREEN_ISH = new Color(77, 255, 178);
+    public static final Color AURORA_PINK = new Color(250, 120, 255);
+
     public static final Color AURORA_RED = new Color(1.0F, 0F, 0F);
     public static final Color AURORA_GREEN = new Color(0.5F, 1.0F, 0.0F);
     public static final Color AURORA_BLUE = new Color(0F, 0.8F, 1.0F);

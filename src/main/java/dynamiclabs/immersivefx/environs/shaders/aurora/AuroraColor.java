@@ -38,6 +38,9 @@ public final class AuroraColor {
     static {
 
         COLOR_SETS.add(new AuroraColor(new Color(0x0, 0xff, 0x99), new Color(0x33, 0xff, 0x00)));
+        // Old Aurora Colors
+        /*
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN, ColorPalette.AURORA_RED, ColorPalette.AURORA_BLUE));
         COLOR_SETS.add(new AuroraColor(ColorPalette.BLUE, ColorPalette.GREEN));
         COLOR_SETS.add(new AuroraColor(ColorPalette.MAGENTA, ColorPalette.GREEN));
         COLOR_SETS.add(new AuroraColor(ColorPalette.INDIGO, ColorPalette.GREEN));
@@ -48,35 +51,40 @@ public final class AuroraColor {
         COLOR_SETS.add(new AuroraColor(ColorPalette.RED, ColorPalette.YELLOW));
         COLOR_SETS.add(new AuroraColor(ColorPalette.NAVY, ColorPalette.INDIGO));
         COLOR_SETS.add(new AuroraColor(ColorPalette.CYAN, ColorPalette.MAGENTA));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN, ColorPalette.AURORA_RED, ColorPalette.AURORA_BLUE));
+         */
 
-        // Warmer versions
-        COLOR_SETS.add(new AuroraColor(ColorPalette.YELLOW.luminance(WARMER),
-                ColorPalette.RED.luminance(WARMER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.GREEN.luminance(WARMER),
-                ColorPalette.RED.luminance(WARMER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.GREEN.luminance(WARMER),
-                ColorPalette.YELLOW.luminance(WARMER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.BLUE.luminance(WARMER),
-                ColorPalette.GREEN.luminance(WARMER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.INDIGO.luminance(WARMER),
-                ColorPalette.GREEN.luminance(WARMER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN.luminance(WARMER),
-                ColorPalette.AURORA_RED.luminance(WARMER), ColorPalette.AURORA_BLUE.luminance(WARMER)));
+        //Better Aurora Colors // Edited Y3
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_CYAN,ColorPalette.AURORA_CYAN));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH,ColorPalette.AURORA_GREEN_ISH));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_PINK,ColorPalette.AURORA_PINK));
 
-        // Cooler versions
-        COLOR_SETS.add(new AuroraColor(ColorPalette.YELLOW.luminance(COOLER),
-                ColorPalette.RED.luminance(COOLER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.GREEN.luminance(COOLER),
-                ColorPalette.RED.luminance(COOLER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.GREEN.luminance(COOLER),
-                ColorPalette.YELLOW.luminance(COOLER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.BLUE.luminance(COOLER),
-                ColorPalette.GREEN.luminance(COOLER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.INDIGO.luminance(COOLER),
-                ColorPalette.GREEN.luminance(COOLER)));
-        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN.luminance(COOLER),
-                ColorPalette.AURORA_RED.luminance(COOLER), ColorPalette.AURORA_BLUE.luminance(COOLER)));
+        // Warmer versions // Edited Y3
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(WARMER),
+                ColorPalette.AURORA_PINK.luminance(WARMER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(WARMER),
+                ColorPalette.AURORA_PINK.luminance(WARMER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(WARMER),
+                ColorPalette.AURORA_CYAN.luminance(WARMER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_CYAN.luminance(WARMER),
+                ColorPalette.AURORA_GREEN_ISH.luminance(WARMER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_CYAN.luminance(WARMER),
+                ColorPalette.AURORA_GREEN_ISH.luminance(WARMER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(WARMER),
+                ColorPalette.AURORA_PINK.luminance(WARMER), ColorPalette.AURORA_CYAN.luminance(WARMER)));
+
+        // Cooler versions // Edited Y3
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(COOLER),
+                ColorPalette.AURORA_PINK.luminance(COOLER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(COOLER),
+                ColorPalette.AURORA_PINK.luminance(COOLER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(COOLER),
+                ColorPalette.AURORA_CYAN.luminance(COOLER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_CYAN.luminance(COOLER),
+                ColorPalette.AURORA_GREEN_ISH.luminance(COOLER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_CYAN.luminance(COOLER),
+                ColorPalette.AURORA_GREEN_ISH.luminance(COOLER)));
+        COLOR_SETS.add(new AuroraColor(ColorPalette.AURORA_GREEN_ISH.luminance(COOLER),
+                ColorPalette.AURORA_PINK.luminance(COOLER), ColorPalette.AURORA_CYAN.luminance(COOLER)));
 
     }
 
