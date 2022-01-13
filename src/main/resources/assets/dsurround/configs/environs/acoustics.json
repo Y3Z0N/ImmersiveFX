@@ -117,15 +117,15 @@
     "repeat_delay_min": 200,
     "repeat_delay_max": 300
   },
-  "village/animals": {
-    "name": "environs:village.animals",
+  "village/goose": {
+    "name": "environs:village.goose",
     "category": "biomes",
     "repeatable": true,
     "repeat_delay_min": 200,
     "repeat_delay_max": 300
   },
-  "village/goose": {
-    "name": "environs:village.goose",
+  "village/animals": {
+    "name": "environs:village.animals",
     "category": "biomes",
     "repeatable": true,
     "repeat_delay_min": 200,

@@ -893,7 +893,9 @@
 	"blunt.equip": {
 		"category": "player",
 		"sounds": [
-			"mobeffects:items/blunt_draw"
+			"mobeffects:items/blunt_draw",
+			"mobeffects:items/blunt_draw2",
+			"mobeffects:items/blunt_draw3"
 		]
 	},
 	"blunt.swing": {
@@ -928,13 +930,21 @@
 			"mobeffects:items/bow_loose1",
 			"mobeffects:items/bow_loose2",
 			"mobeffects:items/bow_loose3",
-			"mobeffects:items/bow_loose4"
+			"mobeffects:items/bow_loose4",
+			"mobeffects:items/bow_loose5",
+			"mobeffects:items/bow_loose6",
+			"mobeffects:items/bow_loose7"
 		]
 	},
 	"sword.equip": {
 		"category": "player",
 		"sounds": [
-			"mobeffects:items/sword_draw"
+			"mobeffects:items/sword_draw1",
+			"mobeffects:items/sword_draw2",
+			"mobeffects:items/sword_draw3",
+			"mobeffects:items/sword_draw4",
+			"mobeffects:items/sword_draw5",
+			"mobeffects:items/sword_draw6"
 		]
 	},
 	"sword.swing": {

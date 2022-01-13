@@ -836,20 +836,7 @@
 			"environs:ambient/village/dogbark3",
 			"environs:ambient/village/dogbark4",
 			"environs:ambient/village/dogbark5",
-			"environs:ambient/village/dogbark6",
-		]
-	},
-	"village.animals": {
-		"category": "biomes",
-		"credits": [
-			"§aAnimals",
-			"darranambler",
-			"Creative Commons 0"
-		],
-		"sounds": [
-			"environs:ambient/village/animals1",
-			"environs:ambient/village/animals2",
-			"environs:ambient/village/animals3"
+			"environs:ambient/village/dogbark6"
 		]
 	},
 	"village.goose": {
@@ -863,6 +850,19 @@
 			"environs:ambient/village/goose1",
 			"environs:ambient/village/goose2",
 			"environs:ambient/village/goose3"
+		]
+	},
+	"village.animals": {
+		"category": "biomes",
+		"credits": [
+			"§aAnimals",
+			"darranambler",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"environs:ambient/village/animals1",
+			"environs:ambient/village/animals2",
+			"environs:ambient/village/animals3"
 		]
 	},
 	"dimension.nether": {
