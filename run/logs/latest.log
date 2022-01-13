@@ -1,18 +1,18 @@
-[27Dez2021 21:40:38.738] [main/INFO] [net.minecraftforge.userdev.ArgumentList/]: Duplicate entries for mixin.config Unindexable
-[27Dez2021 21:40:38.743] [main/INFO] [net.minecraftforge.userdev.ArgumentList/]: Duplicate entries for mixin.config Unindexable
-[27Dez2021 21:40:38.743] [main/INFO] [net.minecraftforge.userdev.ArgumentList/]: Duplicate entries for mixin.config Unindexable
-[27Dez2021 21:40:38.761] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mixin.config, mixins.dsurround.json, --mixin.config, mixins.sndctrl.json, --mixin.config, mixins.mobeffects.json, --mixin.config, mixins.environs.json, --gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.2.20, --assetIndex, 1.16, --assetsDir, C:\Users\Jason Johnson\.gradle\caches\forge_gradle\assets, --version, MOD_DEV, --username, Dev, --accessToken, ????????, --userProperties, {}]
-[27Dez2021 21:40:38.763] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_312 by Amazon.com Inc.
-[27Dez2021 21:40:39.056] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[27Dez2021 21:40:39.099] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Jason%20Johnson/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.4/4ec7d77d9ab32596ca0b78bb123956734767e3a/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
-[27Dez2021 21:40:40.885] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Jason Johnson\.gradle\caches\forge_gradle\assets, --assetIndex, 1.16, --username, Dev, --accessToken, ????????, --userProperties, {}]
-[27Dez2021 21:40:40.944] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.dsurround.json could not be read. If this is a development environment you can ignore this message
-[27Dez2021 21:40:40.946] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.sndctrl.json could not be read. If this is a development environment you can ignore this message
-[27Dez2021 21:40:40.947] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.mobeffects.json could not be read. If this is a development environment you can ignore this message
-[27Dez2021 21:40:40.948] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.environs.json could not be read. If this is a development environment you can ignore this message
-[27Dez2021 21:40:41.153] [main/INFO] [mixin/]: Remapping refMap sereneseasons.refmap.json using C:\Users\Jason Johnson\Desktop\ImmersiveFXmaster\build\createSrgToMcp\output.srg
-[27Dez2021 21:40:45.876] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Dez2021 21:40:46.653] [Render thread/ERROR] [net.minecraft.client.Minecraft/]: Failed to verify authentication
+[13Jan2022 07:19:43.536] [main/INFO] [net.minecraftforge.userdev.ArgumentList/]: Duplicate entries for mixin.config Unindexable
+[13Jan2022 07:19:43.539] [main/INFO] [net.minecraftforge.userdev.ArgumentList/]: Duplicate entries for mixin.config Unindexable
+[13Jan2022 07:19:43.539] [main/INFO] [net.minecraftforge.userdev.ArgumentList/]: Duplicate entries for mixin.config Unindexable
+[13Jan2022 07:19:43.553] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mixin.config, mixins.dsurround.json, --mixin.config, mixins.sndctrl.json, --mixin.config, mixins.mobeffects.json, --mixin.config, mixins.environs.json, --gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.2.20, --assetIndex, 1.16, --assetsDir, C:\Users\Jason Johnson\.gradle\caches\forge_gradle\assets, --version, MOD_DEV, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[13Jan2022 07:19:43.555] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_312 by Amazon.com Inc.
+[13Jan2022 07:19:43.817] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[13Jan2022 07:19:43.868] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Jason%20Johnson/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.4/4ec7d77d9ab32596ca0b78bb123956734767e3a/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[13Jan2022 07:19:45.608] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Jason Johnson\.gradle\caches\forge_gradle\assets, --assetIndex, 1.16, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[13Jan2022 07:19:45.725] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.dsurround.json could not be read. If this is a development environment you can ignore this message
+[13Jan2022 07:19:45.726] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.sndctrl.json could not be read. If this is a development environment you can ignore this message
+[13Jan2022 07:19:45.727] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.mobeffects.json could not be read. If this is a development environment you can ignore this message
+[13Jan2022 07:19:45.728] [main/WARN] [mixin/]: Reference map 'mixins.dsurround.refmap.json' for mixins.environs.json could not be read. If this is a development environment you can ignore this message
+[13Jan2022 07:19:45.882] [main/INFO] [mixin/]: Remapping refMap sereneseasons.refmap.json using C:\Users\Jason Johnson\Documents\GitHub\ImmersiveFX\build\createSrgToMcp\output.srg
+[13Jan2022 07:19:50.192] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jan2022 07:19:50.845] [Render thread/ERROR] [net.minecraft.client.Minecraft/]: Failed to verify authentication
 com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.checkPrivileges(YggdrasilSocialInteractionsService.java:97) ~[authlib-2.1.28.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.<init>(YggdrasilSocialInteractionsService.java:40) ~[authlib-2.1.28.jar:?]
@@ -31,320 +31,180 @@ com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.0.9.jar:?]
 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.0.9.jar:?]
 	at net.minecraftforge.userdev.LaunchTesting.main(LaunchTesting.java:108) [forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-recomp.jar:?]
-[27Dez2021 21:40:46.662] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
-[27Dez2021 21:40:46.746] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
-[27Dez2021 21:40:47.587] [modloading-worker-4/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.20, for MC 1.16.5 with MCP 20210115.111550
-[27Dez2021 21:40:47.592] [modloading-worker-4/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.20 Initialized
-[27Dez2021 21:40:49.004] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
-[27Dez2021 21:40:49.047] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
-[27Dez2021 21:40:49.076] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.sheep.ambient'
-[27Dez2021 21:40:49.077] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.chicken.ambient'
-[27Dez2021 21:40:49.077] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.cow.ambient'
-[27Dez2021 21:40:49.077] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.pig.ambient'
-[27Dez2021 21:40:49.077] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.llama.ambient'
-[27Dez2021 21:40:49.077] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.spawn'
-[27Dez2021 21:40:49.077] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.death'
-[27Dez2021 21:40:49.077] [modloading-worker-2/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.ender_dragon.death'
-[27Dez2021 21:40:49.151] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.sheep.ambient'
-[27Dez2021 21:40:49.151] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.chicken.ambient'
-[27Dez2021 21:40:49.151] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.cow.ambient'
-[27Dez2021 21:40:49.151] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.pig.ambient'
-[27Dez2021 21:40:49.151] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.llama.ambient'
-[27Dez2021 21:40:49.151] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.spawn'
-[27Dez2021 21:40:49.152] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.death'
-[27Dez2021 21:40:49.152] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.ender_dragon.death'
-[27Dez2021 21:40:49.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Dez2021 21:40:49.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.2.20 Target: null
-[27Dez2021 21:40:49.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings2/master/version.json
-[27Dez2021 21:40:49.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dsurround] Found status: AHEAD Current: 4.0.5.0 Target: null
-[27Dez2021 21:40:54.732] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: Number of SoundEvents cached: 1153
-[27Dez2021 21:40:54.733] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: Individual Sound Configurations
-[27Dez2021 21:40:54.733] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: ===============================
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.sheep.ambient cull
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.chicken.ambient cull
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.cow.ambient cull
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.pig.ambient cull
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.llama.ambient cull
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.wither.spawn cull 10
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.wither.death cull 10
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: minecraft:entity.ender_dragon.death cull 10
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: Category Occlusion
-[27Dez2021 21:40:54.734] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: ==================
-[27Dez2021 21:40:54.735] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: voice -> true
-[27Dez2021 21:40:54.735] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: biomes -> true
-[27Dez2021 21:40:54.735] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: hostile -> true
-[27Dez2021 21:40:54.735] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: neutral -> true
-[27Dez2021 21:40:54.735] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: ambient -> true
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: footsteps -> true
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: master -> false
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: CONFIG -> false
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: toolbar -> true
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: music -> false
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: waterfall -> false
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: record -> false
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: spot -> true
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: weather -> false
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: block -> true
-[27Dez2021 21:40:54.736] [Worker-Main-13/INFO] [SoundControl/SoundLibrary]: player -> true
-[27Dez2021 21:40:54.760] [Worker-Main-13/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:acoustics.json (/assets/dsurround/configs/mobeffects/acoustics.json)
-[27Dez2021 21:40:54.788] [Worker-Main-13/INFO] [DynamicSurroundings/Lib]: Processing environs:acoustics.json (/assets/dsurround/configs/environs/acoustics.json)
-[27Dez2021 21:40:54.790] [Worker-Main-13/WARN] [SoundControl/MOD]: Unable to locate sound 'mobeffects:jump'
-[27Dez2021 21:40:55.829] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
-[27Dez2021 21:40:55.831] [Render thread/INFO] [SoundControl/SoundUtils]: Enhanced sounds are enabled.  Will perform sound engine reconfiguration.
-[27Dez2021 21:40:55.934] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF status report before configuration: ALC_HRTF_DISABLED_SOFT
-[27Dez2021 21:40:55.936] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF is already configured or Dynamic Surroundings is not configured to enable
-[27Dez2021 21:40:55.953] [Render thread/INFO] [SoundControl/SoundUtils]: Vendor: OpenAL Community
-[27Dez2021 21:40:55.953] [Render thread/INFO] [SoundControl/SoundUtils]: Version: 1.1 ALSOFT 1.19.1
-[27Dez2021 21:40:55.953] [Render thread/INFO] [SoundControl/SoundUtils]: Renderer: OpenAL Soft
-[27Dez2021 21:40:55.953] [Render thread/INFO] [SoundControl/SoundUtils]: Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_block_alignment AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFTX_events AL_SOFTX_filter_gain_ex AL_SOFT_gain_clamp_ex AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFT_source_resampler AL_SOFT_source_spatialize
-[27Dez2021 21:40:55.954] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
-[27Dez2021 21:40:56.041] [SoundControl Sound Processor/INFO] [SoundControl/SoundFXProcessor]: Threads allocated to SoundControl sound processor: 2
-[27Dez2021 21:40:56.304] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
-[27Dez2021 21:40:56.304] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[27Dez2021 21:40:56.367] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[27Dez2021 21:40:56.368] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[27Dez2021 21:40:56.369] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[27Dez2021 21:40:56.370] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[27Dez2021 21:40:56.391] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[27Dez2021 21:40:56.392] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[27Dez2021 21:40:56.840] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[27Dez2021 21:40:56.841] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[27Dez2021 21:40:56.842] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[27Dez2021 21:40:57.322] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
-[27Dez2021 21:41:11.132] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[27Dez2021 21:41:11.133] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Dez2021 21:41:11.133] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Dez2021 21:41:11.134] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[27Dez2021 21:41:11.135] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Dez2021 21:41:11.139] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SereneSeasons-291874-3429973_mapped_snapshot_20201028-1.16.3.jar, TheOneProbe-245211-3319255_mapped_snapshot_20201028-1.16.3.jar, forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-recomp.jar, main, jei-238222-3488178_mapped_snapshot_20201028-1.16.3.jar, clothAPI-348521-3311352_mapped_snapshot_20201028-1.16.3.jar
-[27Dez2021 21:41:12.067] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[27Dez2021 21:41:12.885] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 929 advancements
-[27Dez2021 21:41:13.607] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
-[27Dez2021 21:41:14.173] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[27Dez2021 21:41:14.174] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Dez2021 21:41:14.175] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Dez2021 21:41:14.175] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[27Dez2021 21:41:14.176] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[27Dez2021 21:41:14.176] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SereneSeasons-291874-3429973_mapped_snapshot_20201028-1.16.3.jar, TheOneProbe-245211-3319255_mapped_snapshot_20201028-1.16.3.jar, forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-recomp.jar, main, jei-238222-3488178_mapped_snapshot_20201028-1.16.3.jar, clothAPI-348521-3311352_mapped_snapshot_20201028-1.16.3.jar
-[27Dez2021 21:41:15.077] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[27Dez2021 21:41:15.766] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 929 advancements
-[27Dez2021 21:41:15.799] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
-[27Dez2021 21:41:16.226] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'stop'
-[27Dez2021 21:41:16.234] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'stop' took 7msecs
-[27Dez2021 21:41:16.235] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Clearing reload state (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: false)
-[27Dez2021 21:41:16.592] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: TagsUpdatedEvent.VanillaTagTypes fired (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: true)
-[27Dez2021 21:41:16.592] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: TagsUpdatedEvent.CustomTagTypes fired (playerJoined: false, reloadFired: false, customTagsEventFired: true, vanillaTagsEventFired: true)
-[27Dez2021 21:41:16.592] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Dez2021 21:41:16.622] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.16.5
-[27Dez2021 21:41:16.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Dez2021 21:41:16.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Dez2021 21:41:17.414] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Dez2021 21:41:17.414] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[27Dez2021 21:41:17.729] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 906 ms
-[27Dez2021 21:41:17.891] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 11, from 10
-[27Dez2021 21:41:18.579] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
-[27Dez2021 21:41:18.630] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7d225512
-[27Dez2021 21:41:18.646] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:8a3bad51] logged in with entity id 177 at (-938.8929902869656, 64.0, 282.7341420519443)
-[27Dez2021 21:41:18.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
-[27Dez2021 21:41:18.776] [Render thread/INFO] [DynamicSurroundings/Lib]: Player login: Dev
-[27Dez2021 21:41:18.798] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: false, customTagsEventFired: true, vanillaTagsEventFired: true)
-[27Dez2021 21:41:18.799] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'reload'
-[27Dez2021 21:41:18.812] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[27Dez2021 21:41:18.813] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing sndctrl:effects.json (/assets/dsurround/configs/sndctrl/effects.json)
-[27Dez2021 21:41:18.831] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:dimensions.json (/assets/dsurround/configs/environs/dimensions.json)
-[27Dez2021 21:41:18.847] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:biomes.json (/assets/dsurround/configs/environs/biomes.json)
-[27Dez2021 21:41:18.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[27Dez2021 21:41:18.862] [Render thread/INFO] [DynamicSurroundings/Lib]: JavaScript engine provided: Oracle Nashorn
-[27Dez2021 21:41:18.991] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:blocks.json (/assets/dsurround/configs/environs/blocks.json)
-[27Dez2021 21:41:19.029] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:mobeffects.json (/assets/dsurround/configs/mobeffects/mobeffects.json)
-[27Dez2021 21:41:19.040] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:armor_accents.json (/assets/dsurround/configs/mobeffects/armor_accents.json)
-[27Dez2021 21:41:19.067] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:variators.json (/assets/dsurround/configs/mobeffects/variators.json)
-[27Dez2021 21:41:19.077] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:footsteps.json (/assets/dsurround/configs/mobeffects/footsteps.json)
-[27Dez2021 21:41:19.087] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'reload' took 288msecs
-[27Dez2021 21:41:19.089] [Render thread/INFO] [Environs/BlockStateLibrary]: 17176 block states processed, 29 registry entries
-[27Dez2021 21:41:19.128] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI...
-[27Dez2021 21:41:19.296] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list...
-[27Dez2021 21:41:19.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[27Dez2021 21:41:19.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[27Dez2021 21:41:19.301] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list took 5.238 ms
-[27Dez2021 21:41:19.301] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter...
-[27Dez2021 21:41:19.415] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter took 113.3 ms
-[27Dez2021 21:41:19.415] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks...
-[27Dez2021 21:41:19.416] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks took 1.077 ms
-[27Dez2021 21:41:19.416] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry...
-[27Dez2021 21:41:19.449] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry took 33.36 ms
-[27Dez2021 21:41:19.457] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime...
-[27Dez2021 21:41:19.495] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime took 38.24 ms
-[27Dez2021 21:41:19.522] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI took 393.9 ms
-[27Dez2021 21:41:19.544] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 314 advancements
-[27Dez2021 21:41:19.600] [Render thread/INFO] [DynamicSurroundings/Lib]: Hooked SereneSeasons getBiomeTemperature()
-[27Dez2021 21:41:19.846] [Render thread/INFO] [DynamicSurroundings/Lib]: JavaScript engine provided: Oracle Nashorn
-[27Dez2021 21:41:28.574] [Render thread/WARN] [SoundControl/MOD]: Unable to locate sound 'mobeffects:empty'
-[27Dez2021 21:41:29.278] [Render thread/WARN] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
-[27Dez2021 21:41:35.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
-[27Dez2021 21:41:35.252] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Set own game mode to Survival Mode
-[27Dez2021 21:41:49.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
-[27Dez2021 21:41:49.951] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Set own game mode to Creative Mode
-[27Dez2021 21:42:13.122] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[27Dez2021 21:42:13.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[27Dez2021 21:42:13.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[27Dez2021 21:42:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[27Dez2021 21:42:15.788] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Mod Resources, Default
-[27Dez2021 21:42:18.216] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
-[27Dez2021 21:42:18.216] [Render thread/INFO] [SoundControl/SoundUtils]: Enhanced sounds are enabled.  Will perform sound engine reconfiguration.
-[27Dez2021 21:42:18.225] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF status report before configuration: ALC_HRTF_DISABLED_SOFT
-[27Dez2021 21:42:18.225] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF is already configured or Dynamic Surroundings is not configured to enable
-[27Dez2021 21:42:18.226] [Render thread/INFO] [SoundControl/SoundUtils]: Vendor: OpenAL Community
-[27Dez2021 21:42:18.226] [Render thread/INFO] [SoundControl/SoundUtils]: Version: 1.1 ALSOFT 1.19.1
-[27Dez2021 21:42:18.226] [Render thread/INFO] [SoundControl/SoundUtils]: Renderer: OpenAL Soft
-[27Dez2021 21:42:18.226] [Render thread/INFO] [SoundControl/SoundUtils]: Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_block_alignment AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFTX_events AL_SOFTX_filter_gain_ex AL_SOFT_gain_clamp_ex AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFT_source_resampler AL_SOFT_source_spatialize
-[27Dez2021 21:42:18.226] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
-[27Dez2021 21:42:18.429] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
-[27Dez2021 21:42:18.430] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[27Dez2021 21:42:18.437] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[27Dez2021 21:42:18.438] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[27Dez2021 21:42:18.440] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[27Dez2021 21:42:18.441] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[27Dez2021 21:42:18.441] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[27Dez2021 21:42:18.441] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[27Dez2021 21:42:18.624] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[27Dez2021 21:42:18.625] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[27Dez2021 21:42:18.625] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[27Dez2021 21:42:18.627] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Received Resource reload callback (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
-[27Dez2021 21:42:18.627] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'reload'
-[27Dez2021 21:42:18.641] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing sndctrl:effects.json (/assets/dsurround/configs/sndctrl/effects.json)
-[27Dez2021 21:42:18.653] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:dimensions.json (/assets/dsurround/configs/environs/dimensions.json)
-[27Dez2021 21:42:18.665] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:biomes.json (/assets/dsurround/configs/environs/biomes.json)
-[27Dez2021 21:42:18.670] [Render thread/INFO] [DynamicSurroundings/Lib]: JavaScript engine provided: Oracle Nashorn
-[27Dez2021 21:42:18.751] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:blocks.json (/assets/dsurround/configs/environs/blocks.json)
-[27Dez2021 21:42:18.769] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:mobeffects.json (/assets/dsurround/configs/mobeffects/mobeffects.json)
-[27Dez2021 21:42:18.779] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:armor_accents.json (/assets/dsurround/configs/mobeffects/armor_accents.json)
-[27Dez2021 21:42:18.798] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:variators.json (/assets/dsurround/configs/mobeffects/variators.json)
-[27Dez2021 21:42:18.808] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:footsteps.json (/assets/dsurround/configs/mobeffects/footsteps.json)
-[27Dez2021 21:42:18.812] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'reload' took 184msecs
-[27Dez2021 21:42:18.812] [Render thread/INFO] [Environs/BlockStateLibrary]: 17176 block states processed, 29 registry entries
-[27Dez2021 21:42:18.812] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI...
-[27Dez2021 21:42:18.839] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list...
-[27Dez2021 21:42:18.840] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list took 661.0 ?s
-[27Dez2021 21:42:18.840] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter...
-[27Dez2021 21:42:18.869] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter took 28.73 ms
-[27Dez2021 21:42:18.869] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks...
-[27Dez2021 21:42:18.869] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks took 63.80 ?s
-[27Dez2021 21:42:18.869] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry...
-[27Dez2021 21:42:18.880] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry took 11.10 ms
-[27Dez2021 21:42:18.880] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime...
-[27Dez2021 21:42:18.881] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime took 247.7 ?s
-[27Dez2021 21:42:18.887] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI took 74.22 ms
-[27Dez2021 21:42:18.887] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI...
-[27Dez2021 21:42:18.913] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list...
-[27Dez2021 21:42:18.914] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list took 643.6 ?s
-[27Dez2021 21:42:18.914] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter...
-[27Dez2021 21:42:18.938] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter took 23.71 ms
-[27Dez2021 21:42:18.938] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks...
-[27Dez2021 21:42:18.938] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks took 76.00 ?s
-[27Dez2021 21:42:18.938] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry...
-[27Dez2021 21:42:18.950] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry took 12.07 ms
-[27Dez2021 21:42:18.950] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime...
-[27Dez2021 21:42:18.951] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime took 260.2 ?s
-[27Dez2021 21:42:18.956] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI took 69.02 ms
-[27Dez2021 21:42:37.271] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[27Dez2021 21:42:37.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[27Dez2021 21:42:37.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[27Dez2021 21:42:37.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[27Dez2021 21:42:40.131] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
-[27Dez2021 21:42:43.676] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
-[27Dez2021 21:42:43.676] [Render thread/INFO] [SoundControl/SoundUtils]: Enhanced sounds are enabled.  Will perform sound engine reconfiguration.
-[27Dez2021 21:42:43.685] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF status report before configuration: ALC_HRTF_DISABLED_SOFT
-[27Dez2021 21:42:43.685] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF is already configured or Dynamic Surroundings is not configured to enable
-[27Dez2021 21:42:43.686] [Render thread/INFO] [SoundControl/SoundUtils]: Vendor: OpenAL Community
-[27Dez2021 21:42:43.686] [Render thread/INFO] [SoundControl/SoundUtils]: Version: 1.1 ALSOFT 1.19.1
-[27Dez2021 21:42:43.686] [Render thread/INFO] [SoundControl/SoundUtils]: Renderer: OpenAL Soft
-[27Dez2021 21:42:43.686] [Render thread/INFO] [SoundControl/SoundUtils]: Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_block_alignment AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFTX_events AL_SOFTX_filter_gain_ex AL_SOFT_gain_clamp_ex AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFT_source_resampler AL_SOFT_source_spatialize
-[27Dez2021 21:42:43.686] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
-[27Dez2021 21:42:43.856] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
-[27Dez2021 21:42:43.859] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[27Dez2021 21:42:43.866] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[27Dez2021 21:42:43.866] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[27Dez2021 21:42:43.867] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[27Dez2021 21:42:43.868] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[27Dez2021 21:42:43.868] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[27Dez2021 21:42:43.869] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[27Dez2021 21:42:44.050] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[27Dez2021 21:42:44.051] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[27Dez2021 21:42:44.051] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[27Dez2021 21:42:44.051] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Received Resource reload callback (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
-[27Dez2021 21:42:44.051] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'reload'
-[27Dez2021 21:42:44.066] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing sndctrl:effects.json (/assets/dsurround/configs/sndctrl/effects.json)
-[27Dez2021 21:42:44.079] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:dimensions.json (/assets/dsurround/configs/environs/dimensions.json)
-[27Dez2021 21:42:44.089] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:biomes.json (/assets/dsurround/configs/environs/biomes.json)
-[27Dez2021 21:42:44.094] [Render thread/INFO] [DynamicSurroundings/Lib]: JavaScript engine provided: Oracle Nashorn
-[27Dez2021 21:42:44.174] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:blocks.json (/assets/dsurround/configs/environs/blocks.json)
-[27Dez2021 21:42:44.191] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:mobeffects.json (/assets/dsurround/configs/mobeffects/mobeffects.json)
-[27Dez2021 21:42:44.202] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:armor_accents.json (/assets/dsurround/configs/mobeffects/armor_accents.json)
-[27Dez2021 21:42:44.217] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:variators.json (/assets/dsurround/configs/mobeffects/variators.json)
-[27Dez2021 21:42:44.227] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:footsteps.json (/assets/dsurround/configs/mobeffects/footsteps.json)
-[27Dez2021 21:42:44.230] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'reload' took 178msecs
-[27Dez2021 21:42:44.231] [Render thread/INFO] [Environs/BlockStateLibrary]: 17176 block states processed, 29 registry entries
-[27Dez2021 21:42:44.231] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI...
-[27Dez2021 21:42:44.257] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list...
-[27Dez2021 21:42:44.258] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list took 595.2 ?s
-[27Dez2021 21:42:44.258] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter...
-[27Dez2021 21:42:44.282] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter took 23.84 ms
-[27Dez2021 21:42:44.282] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks...
-[27Dez2021 21:42:44.282] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks took 61.20 ?s
-[27Dez2021 21:42:44.282] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry...
-[27Dez2021 21:42:44.292] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry took 9.655 ms
-[27Dez2021 21:42:44.292] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime...
-[27Dez2021 21:42:44.292] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime took 201.5 ?s
-[27Dez2021 21:42:44.296] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI took 64.86 ms
-[27Dez2021 21:42:44.296] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI...
-[27Dez2021 21:42:44.319] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list...
-[27Dez2021 21:42:44.319] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list took 536.0 ?s
-[27Dez2021 21:42:44.320] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter...
-[27Dez2021 21:42:44.344] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter took 24.09 ms
-[27Dez2021 21:42:44.344] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks...
-[27Dez2021 21:42:44.344] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks took 58.20 ?s
-[27Dez2021 21:42:44.344] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry...
-[27Dez2021 21:42:44.354] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry took 9.716 ms
-[27Dez2021 21:42:44.354] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime...
-[27Dez2021 21:42:44.354] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime took 286.9 ?s
-[27Dez2021 21:42:44.358] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI took 62.38 ms
-[27Dez2021 21:43:17.678] [Render thread/WARN] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
-[27Dez2021 21:44:02.222] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[27Dez2021 21:44:02.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[27Dez2021 21:44:02.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[27Dez2021 21:44:02.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[27Dez2021 21:46:10.860] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Respawn point set
-[27Dez2021 21:46:15.891] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11224 in minecraft:the_nether
-[27Dez2021 21:46:15.891] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11224 in minecraft:the_end
-[27Dez2021 21:46:15.921] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11224 in minecraft:overworld
-[27Dez2021 21:46:16.221] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[27Dez2021 21:46:16.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[27Dez2021 21:46:16.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[27Dez2021 21:46:16.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[27Dez2021 21:47:14.822] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
-[27Dez2021 21:47:14.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[27Dez2021 21:47:15.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[27Dez2021 21:47:15.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[27Dez2021 21:47:15.112] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'stop'
-[27Dez2021 21:47:15.115] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'stop' took 2msecs
-[27Dez2021 21:47:15.115] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Clearing reload state (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
-[27Dez2021 21:47:15.132] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
-[27Dez2021 21:47:15.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
-[27Dez2021 21:47:15.177] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
-[27Dez2021 21:47:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27Dez2021 21:47:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27Dez2021 21:47:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27Dez2021 21:47:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[27Dez2021 21:47:16.169] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[27Dez2021 21:47:16.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[27Dez2021 21:47:16.170] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Dez2021 21:47:16.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[27Dez2021 21:47:16.171] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Dez2021 21:47:16.230] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[27Dez2021 21:47:16.248] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Dez2021 21:47:16.249] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Dez2021 21:47:20.854] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
-[27Dez2021 21:47:20.854] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'stop'
-[27Dez2021 21:47:20.856] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'stop' took 2msecs
-[27Dez2021 21:47:20.856] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Clearing reload state (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: false)
+[13Jan2022 07:19:50.852] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[13Jan2022 07:19:50.934] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[13Jan2022 07:19:51.946] [modloading-worker-4/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.20, for MC 1.16.5 with MCP 20210115.111550
+[13Jan2022 07:19:52.005] [modloading-worker-4/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.20 Initialized
+[13Jan2022 07:19:53.593] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[13Jan2022 07:19:53.638] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[13Jan2022 07:19:53.811] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.sheep.ambient'
+[13Jan2022 07:19:53.812] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.chicken.ambient'
+[13Jan2022 07:19:53.812] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.cow.ambient'
+[13Jan2022 07:19:53.812] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.pig.ambient'
+[13Jan2022 07:19:53.812] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.llama.ambient'
+[13Jan2022 07:19:53.812] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.spawn'
+[13Jan2022 07:19:53.812] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.death'
+[13Jan2022 07:19:53.812] [modloading-worker-8/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.ender_dragon.death'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.sheep.ambient'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.chicken.ambient'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.cow.ambient'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.pig.ambient'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.llama.ambient'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.spawn'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.wither.death'
+[13Jan2022 07:19:53.851] [Thread-1/WARN] [SoundControl/MOD]: Unable to locate sound 'minecraft:entity.ender_dragon.death'
+[13Jan2022 07:19:54.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jan2022 07:19:54.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.2.20 Target: null
+[13Jan2022 07:19:54.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings2/master/version.json
+[13Jan2022 07:19:55.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dsurround] Found status: AHEAD Current: 4.0.5.0 Target: null
+[13Jan2022 07:19:59.369] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: Number of SoundEvents cached: 1155
+[13Jan2022 07:19:59.369] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: Individual Sound Configurations
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: ===============================
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.sheep.ambient cull
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.chicken.ambient cull
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.cow.ambient cull
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.pig.ambient cull
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.llama.ambient cull
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.wither.spawn cull 10
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.wither.death cull 10
+[13Jan2022 07:19:59.370] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: minecraft:entity.ender_dragon.death cull 10
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: Category Occlusion
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: ==================
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: voice -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: biomes -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: hostile -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: neutral -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: ambient -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: footsteps -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: master -> false
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: CONFIG -> false
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: toolbar -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: music -> false
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: waterfall -> false
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: record -> false
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: spot -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: weather -> false
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: block -> true
+[13Jan2022 07:19:59.371] [Worker-Main-9/INFO] [SoundControl/SoundLibrary]: player -> true
+[13Jan2022 07:19:59.390] [Worker-Main-9/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:acoustics.json (/assets/dsurround/configs/mobeffects/acoustics.json)
+[13Jan2022 07:19:59.413] [Worker-Main-9/INFO] [DynamicSurroundings/Lib]: Processing environs:acoustics.json (/assets/dsurround/configs/environs/acoustics.json)
+[13Jan2022 07:19:59.413] [Worker-Main-9/WARN] [SoundControl/MOD]: Unable to locate sound 'mobeffects:jump'
+[13Jan2022 07:20:00.487] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[13Jan2022 07:20:00.489] [Render thread/INFO] [SoundControl/SoundUtils]: Enhanced sounds are enabled.  Will perform sound engine reconfiguration.
+[13Jan2022 07:20:00.513] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF status report before configuration: ALC_HRTF_DISABLED_SOFT
+[13Jan2022 07:20:00.513] [Render thread/INFO] [SoundControl/SoundUtils]: HRTF is already configured or Dynamic Surroundings is not configured to enable
+[13Jan2022 07:20:00.530] [Render thread/INFO] [SoundControl/SoundUtils]: Vendor: OpenAL Community
+[13Jan2022 07:20:00.530] [Render thread/INFO] [SoundControl/SoundUtils]: Version: 1.1 ALSOFT 1.19.1
+[13Jan2022 07:20:00.530] [Render thread/INFO] [SoundControl/SoundUtils]: Renderer: OpenAL Soft
+[13Jan2022 07:20:00.530] [Render thread/INFO] [SoundControl/SoundUtils]: Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_block_alignment AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFTX_events AL_SOFTX_filter_gain_ex AL_SOFT_gain_clamp_ex AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFT_source_resampler AL_SOFT_source_spatialize
+[13Jan2022 07:20:00.531] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[13Jan2022 07:20:00.533] [SoundControl Sound Processor/INFO] [SoundControl/SoundFXProcessor]: Threads allocated to SoundControl sound processor: 2
+[13Jan2022 07:20:00.871] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[13Jan2022 07:20:00.872] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13Jan2022 07:20:00.939] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[13Jan2022 07:20:00.939] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13Jan2022 07:20:00.941] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13Jan2022 07:20:00.942] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13Jan2022 07:20:00.942] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13Jan2022 07:20:00.943] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13Jan2022 07:20:01.416] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13Jan2022 07:20:01.418] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13Jan2022 07:20:01.418] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13Jan2022 07:20:01.957] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[13Jan2022 07:20:10.448] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13Jan2022 07:20:10.448] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13Jan2022 07:20:10.449] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13Jan2022 07:20:10.450] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13Jan2022 07:20:10.450] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13Jan2022 07:20:10.454] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SereneSeasons-291874-3429973_mapped_snapshot_20201028-1.16.3.jar, TheOneProbe-245211-3319255_mapped_snapshot_20201028-1.16.3.jar, forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-recomp.jar, main, jei-238222-3488178_mapped_snapshot_20201028-1.16.3.jar, clothAPI-348521-3311352_mapped_snapshot_20201028-1.16.3.jar
+[13Jan2022 07:20:11.413] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[13Jan2022 07:20:12.209] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 929 advancements
+[13Jan2022 07:20:12.321] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[13Jan2022 07:20:12.923] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13Jan2022 07:20:12.924] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13Jan2022 07:20:12.924] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13Jan2022 07:20:12.925] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13Jan2022 07:20:12.925] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13Jan2022 07:20:12.925] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, SereneSeasons-291874-3429973_mapped_snapshot_20201028-1.16.3.jar, TheOneProbe-245211-3319255_mapped_snapshot_20201028-1.16.3.jar, forge-1.16.5-36.2.20_mapped_snapshot_20201028-1.16.3-recomp.jar, main, jei-238222-3488178_mapped_snapshot_20201028-1.16.3.jar, clothAPI-348521-3311352_mapped_snapshot_20201028-1.16.3.jar
+[13Jan2022 07:20:13.845] [Render thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[13Jan2022 07:20:14.514] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 929 advancements
+[13Jan2022 07:20:14.548] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[13Jan2022 07:20:14.973] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'stop'
+[13Jan2022 07:20:14.981] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'stop' took 7msecs
+[13Jan2022 07:20:14.982] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Clearing reload state (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: false)
+[13Jan2022 07:20:15.349] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: TagsUpdatedEvent.VanillaTagTypes fired (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: true)
+[13Jan2022 07:20:15.350] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: TagsUpdatedEvent.CustomTagTypes fired (playerJoined: false, reloadFired: false, customTagsEventFired: true, vanillaTagsEventFired: true)
+[13Jan2022 07:20:15.350] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jan2022 07:20:15.380] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.16.5
+[13Jan2022 07:20:15.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jan2022 07:20:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Jan2022 07:20:16.157] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[13Jan2022 07:20:16.179] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[13Jan2022 07:20:16.432] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 771 ms
+[13Jan2022 07:20:16.642] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 11, from 10
+[13Jan2022 07:20:17.332] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[13Jan2022 07:20:17.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d03f6bd
+[13Jan2022 07:20:17.396] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:a7d334ef] logged in with entity id 177 at (-897.1043793401246, 64.16610926093821, 398.89893334035355)
+[13Jan2022 07:20:17.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[13Jan2022 07:20:17.538] [Render thread/INFO] [DynamicSurroundings/Lib]: Player login: Dev
+[13Jan2022 07:20:17.550] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[13Jan2022 07:20:17.561] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: false, customTagsEventFired: true, vanillaTagsEventFired: true)
+[13Jan2022 07:20:17.562] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'reload'
+[13Jan2022 07:20:17.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13Jan2022 07:20:17.578] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing sndctrl:effects.json (/assets/dsurround/configs/sndctrl/effects.json)
+[13Jan2022 07:20:17.594] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:dimensions.json (/assets/dsurround/configs/environs/dimensions.json)
+[13Jan2022 07:20:17.606] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:biomes.json (/assets/dsurround/configs/environs/biomes.json)
+[13Jan2022 07:20:17.620] [Render thread/INFO] [DynamicSurroundings/Lib]: JavaScript engine provided: Oracle Nashorn
+[13Jan2022 07:20:17.746] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing environs:blocks.json (/assets/dsurround/configs/environs/blocks.json)
+[13Jan2022 07:20:17.784] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:mobeffects.json (/assets/dsurround/configs/mobeffects/mobeffects.json)
+[13Jan2022 07:20:17.795] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:armor_accents.json (/assets/dsurround/configs/mobeffects/armor_accents.json)
+[13Jan2022 07:20:17.818] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:variators.json (/assets/dsurround/configs/mobeffects/variators.json)
+[13Jan2022 07:20:17.827] [Render thread/INFO] [DynamicSurroundings/Lib]: Processing mobeffects:footsteps.json (/assets/dsurround/configs/mobeffects/footsteps.json)
+[13Jan2022 07:20:17.836] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'reload' took 273msecs
+[13Jan2022 07:20:17.837] [Render thread/INFO] [Environs/BlockStateLibrary]: 17176 block states processed, 29 registry entries
+[13Jan2022 07:20:17.879] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI...
+[13Jan2022 07:20:17.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13Jan2022 07:20:17.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13Jan2022 07:20:18.087] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list...
+[13Jan2022 07:20:18.091] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient list took 4.399 ms
+[13Jan2022 07:20:18.091] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter...
+[13Jan2022 07:20:18.212] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building ingredient filter took 120.7 ms
+[13Jan2022 07:20:18.212] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks...
+[13Jan2022 07:20:18.213] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building bookmarks took 1.011 ms
+[13Jan2022 07:20:18.213] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry...
+[13Jan2022 07:20:18.256] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building recipe registry took 42.54 ms
+[13Jan2022 07:20:18.263] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime...
+[13Jan2022 07:20:18.307] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Building runtime took 43.35 ms
+[13Jan2022 07:20:18.346] [Render thread/INFO] [mezz.jei.util.LoggedTimer/]: Starting JEI took 467.2 ms
+[13Jan2022 07:20:18.369] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 314 advancements
+[13Jan2022 07:20:18.735] [Render thread/INFO] [DynamicSurroundings/Lib]: Hooked SereneSeasons getBiomeTemperature()
+[13Jan2022 07:20:18.752] [Render thread/INFO] [DynamicSurroundings/Lib]: JavaScript engine provided: Oracle Nashorn
+[13Jan2022 07:20:36.875] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[13Jan2022 07:20:36.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13Jan2022 07:20:37.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13Jan2022 07:20:37.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13Jan2022 07:20:56.197] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Unknown or incomplete command, see below for error
+[13Jan2022 07:20:56.197] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] /tp<--[HERE]
+[13Jan2022 07:21:00.577] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The nearest minecraft:plains is at [-400, ~, -152] (702 blocks away)
+[13Jan2022 07:21:03.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Teleported Dev to -399.5, 63.0, -151.5]
+[13Jan2022 07:21:03.018] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Teleported Dev to -399.5, 63.0, -151.5
+[13Jan2022 07:21:06.000] [Render thread/WARN] [SoundControl/MOD]: Unable to locate sound 'mobeffects:empty'
+[13Jan2022 07:21:26.101] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[13Jan2022 07:21:26.102] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'stop'
+[13Jan2022 07:21:26.105] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'stop' took 2msecs
+[13Jan2022 07:21:26.105] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Clearing reload state (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[13Jan2022 07:21:26.132] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
+[13Jan2022 07:21:26.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[13Jan2022 07:21:26.146] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[13Jan2022 07:21:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jan2022 07:21:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jan2022 07:21:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jan2022 07:21:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13Jan2022 07:21:26.990] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[13Jan2022 07:21:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13Jan2022 07:21:26.991] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jan2022 07:21:26.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13Jan2022 07:21:26.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jan2022 07:21:27.010] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[13Jan2022 07:21:27.026] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jan2022 07:21:27.027] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
